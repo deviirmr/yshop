@@ -1,0 +1,7 @@
+.env
+.env-kuber
+.vscode
+*.pyc
+celerybeat-schedule
+images
+media
